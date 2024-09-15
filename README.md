@@ -10,3 +10,5 @@
 
 # Real-time
 https://youtu.be/iCygIdHNRTA?si=4px7MxIWUjhINSs4
+
+https://github.com/vaibhavhariramani/deepface
