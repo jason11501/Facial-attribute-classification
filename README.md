@@ -7,3 +7,6 @@
 
 **Ngôn ngữ (Language):**<br>
 * Python
+
+# Real-time
+https://youtu.be/iCygIdHNRTA?si=4px7MxIWUjhINSs4
