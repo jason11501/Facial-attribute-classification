@@ -1,5 +1,5 @@
 # Xử lí ảnh số video số - Digital image processing
-# Nhận dạng thuộc tính mặt người - Facial attribute recognition
+# Nhận dạng thuộc tính mặt người - Facial attribute classification
 # Tiến độ 70%
 ## Install environments
 **Công cụ (Tool):**<br>
