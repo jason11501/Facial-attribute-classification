@@ -1,10 +1,11 @@
 # Xử lí ảnh số video số - Digital image processing
-# Nhận dạng thuộc tính mặt người - Facial attribute classification
+# Truy vấn mặt người tương đồng đặc trưng thị giác dựa vào thuộc tính mặt người - Facial attributes classification
 # Tiến độ 70% (độ chính xác: sai)
+
 
 ## Install environments
 **Công cụ (Tool):**<br>
-* Jupyter Notebook
+* Google Colab
 
 **Ngôn ngữ (Language):**<br>
 * Python
