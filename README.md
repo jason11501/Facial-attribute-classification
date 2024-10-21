@@ -1,5 +1,5 @@
 # Xử lí ảnh số video số - Digital image processing
-# Truy vấn mặt người tương đồng đặc trưng thị giác dựa vào thuộc tính mặt người - Facial attributes classification
+# Truy vấn mặt người (tương đồng đặc trưng thị giác) dựa vào thuộc tính mặt người - Facial attributes classification
 # Tiến độ 70% (độ chính xác: sai)
 
 
