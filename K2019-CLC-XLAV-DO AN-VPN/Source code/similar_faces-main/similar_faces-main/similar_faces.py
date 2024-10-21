@@ -37,7 +37,7 @@ class FaceSimilarity:
     def get_embeddings(self, attr, model):
         face_vec = []
         for key in attr:
-            face_vec.append(model[key])
+            face_vec.append(model.wv[key])
 
         return np.mean(face_vec, axis=0)
 
