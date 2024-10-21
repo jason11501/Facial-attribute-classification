@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+Pillow
+gensim
+numpy
+scikit-learn
+torchsummary
